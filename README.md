@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c2960328a039c8d094f4579b928cba60)](https://www.linkedin.com/in/joeel-ray-moran/)
+[![MasterHead]([https://qph.cf2.quoracdn.net/main-qimg-c2960328a039c8d094f4579b928cba60](https://userroll.s3.amazonaws.com/u/1/coverimage_2008186483104_aspnetmvc-class-banner.png))](https://www.linkedin.com/in/joeel-ray-moran/)
 <h1 align="center">Hi 👋, I'm Joeel Ray Moran</h1>
 <h3 align="center">A passionate frontend developer from New Jersey</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif">
